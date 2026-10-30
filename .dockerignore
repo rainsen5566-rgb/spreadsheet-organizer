@@ -1,0 +1,5 @@
+*
+!Dockerfile
+!requirements-cloud.txt
+!server.py
+!wsgi.py
